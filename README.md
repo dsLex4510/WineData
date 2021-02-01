@@ -2,6 +2,7 @@
 
 Basic Library Requirements:
 Numpy
+Pandas
 Matplotlib
 Sklearn
 Seaborn
